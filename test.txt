@@ -2,5 +2,6 @@ asdasd
 asd
 as
 ova e promena od grankata master
+rebase 3
 rebase 4
 rebase 2
