@@ -2,3 +2,4 @@ asd
 asd
 asd
 print(5)
+print(10)
