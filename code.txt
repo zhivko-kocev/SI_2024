@@ -2,4 +2,5 @@ asd
 asd
 asd
 print(8)
+print(7)
 print(10)
